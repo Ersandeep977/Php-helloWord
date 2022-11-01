@@ -1,9 +1,12 @@
-<!DOCTYPE>  
-<html>  
-    <body>  
-        <?php  
-            echo "Hello world using echo </br>";  
-            ECHO "Hello world using ECHO </br>";  
-        ?>  
-    </body>  
-</html> 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My first PHP page</h1>
+
+<?php
+echo "Hello World!";
+?>
+
+</body>
+</html>
