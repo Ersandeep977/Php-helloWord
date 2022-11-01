@@ -2,12 +2,11 @@
 <html>
 <body>
 
-<h1> Hello Sandeep Kumar Patel </h1>
-  <h2> DevOps </h2>
-  <h3> 
-
 <?php
-echo "Hello World!";
+$color = "red";
+echo "My car is " . $color . "<br>";
+echo "My house is " . $COLOR . "<br>";
+echo "My boat is " . $coLOR . "<br>";
 ?>
 
 </body>
